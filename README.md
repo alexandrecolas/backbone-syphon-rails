@@ -4,26 +4,22 @@ It is a wrapper for [Backbone.Syphon](https://github.com/derickbailey/backbone.s
 ## Verstion
 The version of this gem follows that of the associated Backbone.Syphon version
 
-Current version is **0.4.1**
+Current version is **0.5**
 ## Installation
 
 Add this line to your application's Gemfile:
 
-    gem 'backbone-syphon-rails'
+    gem 'backbone-syphon-rails', github: 'alexandrecolas/backbone-syphon-rails'
 
 And then execute:
 
     $ bundle
 
-Or install it yourself as:
-
-    $ gem install backbone-syphon-rails
-
 ## Usage
 
 Add this line to your application.js file:
 
-    //= require backbone-syphone
+    //= require backbone-syphon
 
 ## Contributing
 
