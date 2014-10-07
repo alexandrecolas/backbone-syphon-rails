@@ -1,7 +1,7 @@
 module Backbone
   module Syphon
     module Rails
-      VERSION = "0.4.1.2"
+      VERSION = "0.5.0"
     end
   end
 end
